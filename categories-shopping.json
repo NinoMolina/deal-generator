@@ -1,0 +1,152 @@
+[
+  {
+    "id": 596,
+    "uuid": "accesorios-de-moda-596-shopping",
+    "parentId": 595,
+    "name": "Accesorios de moda",
+    "businessUnit": "shopping",
+    "parent": {
+      "id": 595,
+      "uuid": "accesorios-595-shopping",
+      "name": "Accesorios",
+      "businessUnit": "shopping",
+      "guid": "9f75f737-0c1e-457c-acb9-53a8314cc3f7"
+    },
+    "guid": "052740c1-2aed-11e5-9b32-a0369f471940"
+  },
+  {
+    "id": 676,
+    "uuid": "mujer-676-shopping",
+    "parentId": 674,
+    "name": "Mujer",
+    "businessUnit": "shopping",
+    "parent": {
+      "id": 674,
+      "uuid": "vestuario-y-calzado-674-shopping",
+      "name": "Vestuario y calzado",
+      "businessUnit": "shopping",
+      "guid": "05278050-2aed-11e5-9b32-a0369f471940"
+    },
+    "guid": "052780f8-2aed-11e5-9b32-a0369f471940"
+  },
+  {
+    "id": 680,
+    "uuid": "zapatos-680-shopping",
+    "parentId": 674,
+    "name": "Zapatos",
+    "businessUnit": "shopping",
+    "parent": {
+      "id": 674,
+      "uuid": "vestuario-y-calzado-674-shopping",
+      "name": "Vestuario y calzado",
+      "businessUnit": "shopping",
+      "guid": "05278050-2aed-11e5-9b32-a0369f471940"
+    },
+    "guid": "0527824a-2aed-11e5-9b32-a0369f471940"
+  },
+  {
+    "id": 626,
+    "uuid": "tv-y-video-626-shopping",
+    "parentId": 624,
+    "name": "TV y Video",
+    "businessUnit": "shopping",
+    "parent": {
+      "id": 624,
+      "uuid": "tecnologia-624-shopping",
+      "name": "Tecnología",
+      "businessUnit": "shopping",
+      "guid": "acdda4d9-237b-4136-9d9e-39eab292b7d1"
+    },
+    "guid": "05276afb-2aed-11e5-9b32-a0369f471940"
+  },
+  {
+    "id": 586,
+    "uuid": "chocolates-/-dulces-586-shopping",
+    "parentId": 582,
+    "name": "Chocolates / Dulces",
+    "businessUnit": "shopping",
+    "parent": {
+      "id": 582,
+      "uuid": "alimentos-y-bebidas-582-shopping",
+      "name": "Alimentos y bebidas",
+      "businessUnit": "shopping",
+      "guid": "05273871-2aed-11e5-9b32-a0369f471940"
+    },
+    "guid": "052739f4-2aed-11e5-9b32-a0369f471940"
+  },
+  {
+    "id": 591,
+    "uuid": "delicatessen-591-shopping",
+    "parentId": 582,
+    "name": "Delicatessen",
+    "businessUnit": "shopping",
+    "parent": {
+      "id": 582,
+      "uuid": "alimentos-y-bebidas-582-shopping",
+      "name": "Alimentos y bebidas",
+      "businessUnit": "shopping",
+      "guid": "05273871-2aed-11e5-9b32-a0369f471940"
+    },
+    "guid": "05273f63-2aed-11e5-9b32-a0369f471940"
+  },
+  {
+    "id": 608,
+    "uuid": "cosmeticos-y-maquillaje-608-shopping",
+    "parentId": 606,
+    "name": "Cosméticos y maquillaje",
+    "businessUnit": "shopping",
+    "parent": {
+      "id": 606,
+      "uuid": "belleza-606-shopping",
+      "name": "Belleza",
+      "businessUnit": "shopping",
+      "guid": "05275117-2aed-11e5-9b32-a0369f471940"
+    },
+    "guid": "05275675-2aed-11e5-9b32-a0369f471940"
+  },
+  {
+    "id": 671,
+    "uuid": "salud-y-bienestar-671-shopping",
+    "parentId": 670,
+    "name": "Salud y bienestar",
+    "businessUnit": "shopping",
+    "parent": {
+      "id": 670,
+      "uuid": "salud-y-farmacia-670-shopping",
+      "name": "Salud y farmacia",
+      "businessUnit": "shopping",
+      "guid": "05277efa-2aed-11e5-9b32-a0369f471940"
+    },
+    "guid": "05277f4f-2aed-11e5-9b32-a0369f471940"
+  },
+  {
+    "id": 673,
+    "uuid": "productos-para-dejar-de-fumar-673-shopping",
+    "parentId": 670,
+    "name": "Productos para dejar de fumar",
+    "businessUnit": "shopping",
+    "parent": {
+      "id": 670,
+      "uuid": "salud-y-farmacia-670-shopping",
+      "name": "Salud y farmacia",
+      "businessUnit": "shopping",
+      "guid": "05277efa-2aed-11e5-9b32-a0369f471940"
+    },
+    "guid": "05277ffc-2aed-11e5-9b32-a0369f471940"
+  },
+  {
+    "id": 643,
+    "uuid": "colchones-643-shopping",
+    "parentId": 642,
+    "name": "Colchones",
+    "businessUnit": "shopping",
+    "parent": {
+      "id": 642,
+      "uuid": "hogar-y-jardin-642-shopping",
+      "name": "Hogar y Jardín",
+      "businessUnit": "shopping",
+      "guid": "22b22452-35dd-4b44-a42c-9d6c070c075b"
+    },
+    "guid": "05277310-2aed-11e5-9b32-a0369f471940"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "id": 304,
+    "uuid": "restaurante-norafricano-304-local",
+    "parentId": 303,
+    "name": "Restaurante norafricano",
+    "businessUnit": "local",
+    "parent": {
+      "id": 303,
+      "uuid": "restaurante-norafricano-303-local",
+      "parentId": 296,
+      "name": "Restaurante norafricano",
+      "businessUnit": "local",
+      "parent": {
+        "id": 296,
+        "uuid": "gastronomia-296-local",
+        "name": "Gastronomía",
+        "businessUnit": "local",
+        "guid": "f052f491-36c2-406f-a196-be2c59d281f4"
+      },
+      "guid": "0526a2a5-2aed-11e5-9b32-a0369f471940"
+    },
+    "guid": "0526a2fb-2aed-11e5-9b32-a0369f471940"
+  },
+  {
+    "id": 333,
+    "uuid": "restaurante-chino-de-dim-sum-333-local",
+    "parentId": 331,
+    "name": "Restaurante chino de dim sum",
+    "businessUnit": "local",
+    "parent": {
+      "id": 331,
+      "uuid": "restaurante-chino-331-local",
+      "parentId": 296,
+      "name": "Restaurante chino",
+      "businessUnit": "local",
+      "parent": {
+        "id": 296,
+        "uuid": "gastronomia-296-local",
+        "name": "Gastronomía",
+        "businessUnit": "local",
+        "guid": "f052f491-36c2-406f-a196-be2c59d281f4"
+      },
+      "guid": "0526ac43-2aed-11e5-9b32-a0369f471940"
+    },
+    "guid": "0526acf1-2aed-11e5-9b32-a0369f471940"
+  },
+  {
+    "id": 335,
+    "uuid": "restaurante-hindu-335-local",
+    "parentId": 334,
+    "name": "Restaurante hindú",
+    "businessUnit": "local",
+    "parent": {
+      "id": 334,
+      "uuid": "restaurante-hindu-334-local",
+      "parentId": 296,
+      "name": "Restaurante hindú",
+      "businessUnit": "local",
+      "parent": {
+        "id": 296,
+        "uuid": "gastronomia-296-local",
+        "name": "Gastronomía",
+        "businessUnit": "local",
+        "guid": "f052f491-36c2-406f-a196-be2c59d281f4"
+      },
+      "guid": "0526ad4b-2aed-11e5-9b32-a0369f471940"
+    },
+    "guid": "0526ad9f-2aed-11e5-9b32-a0369f471940"
+  },
+  {
+    "id": 342,
+    "uuid": "restaurante-japones-de-sushi-342-local",
+    "parentId": 340,
+    "name": "Restaurante japonés de sushi",
+    "businessUnit": "local",
+    "parent": {
+      "id": 340,
+      "uuid": "restaurante-japones-340-local",
+      "parentId": 296,
+      "name": "Restaurante japonés",
+      "businessUnit": "local",
+      "parent": {
+        "id": 296,
+        "uuid": "gastronomia-296-local",
+        "name": "Gastronomía",
+        "businessUnit": "local",
+        "guid": "f052f491-36c2-406f-a196-be2c59d281f4"
+      },
+      "guid": "0526b1d5-2aed-11e5-9b32-a0369f471940"
+    },
+    "guid": "0526b286-2aed-11e5-9b32-a0369f471940"
+  },
+  {
+    "id": 359,
+    "uuid": "restaurante-vietnamita-359-local",
+    "parentId": 358,
+    "name": "Restaurante vietnamita",
+    "businessUnit": "local",
+    "parent": {
+      "id": 358,
+      "uuid": "restaurante-vietnamita-358-local",
+      "parentId": 296,
+      "name": "Restaurante vietnamita",
+      "businessUnit": "local",
+      "parent": {
+        "id": 296,
+        "uuid": "gastronomia-296-local",
+        "name": "Gastronomía",
+        "businessUnit": "local",
+        "guid": "f052f491-36c2-406f-a196-be2c59d281f4"
+      },
+      "guid": "0526b8a5-2aed-11e5-9b32-a0369f471940"
+    },
+    "guid": "0526b8f9-2aed-11e5-9b32-a0369f471940"
+  },
+  {
+    "id": 364,
+    "uuid": "restaurante-britanico-con-hora-del-te-364-local",
+    "parentId": 362,
+    "name": "Restaurante británico con hora del té",
+    "businessUnit": "local",
+    "parent": {
+      "id": 362,
+      "uuid": "restaurante-britanico-362-local",
+      "parentId": 296,
+      "name": "Restaurante británico",
+      "businessUnit": "local",
+      "parent": {
+        "id": 296,
+        "uuid": "gastronomia-296-local",
+        "name": "Gastronomía",
+        "businessUnit": "local",
+        "guid": "f052f491-36c2-406f-a196-be2c59d281f4"
+      },
+      "guid": "0526ba01-2aed-11e5-9b32-a0369f471940"
+    },
+    "guid": "0526baa9-2aed-11e5-9b32-a0369f471940"
+  },
+  {
+    "id": 371,
+    "uuid": "restaurante-aleman-371-local",
+    "parentId": 370,
+    "name": "Restaurante alemán",
+    "businessUnit": "local",
+    "parent": {
+      "id": 370,
+      "uuid": "restaurante-aleman-370-local",
+      "parentId": 296,
+      "name": "Restaurante alemán",
+      "businessUnit": "local",
+      "parent": {
+        "id": 296,
+        "uuid": "gastronomia-296-local",
+        "name": "Gastronomía",
+        "businessUnit": "local",
+        "guid": "f052f491-36c2-406f-a196-be2c59d281f4"
+      },
+      "guid": "0526bc9f-2aed-11e5-9b32-a0369f471940"
+    },
+    "guid": "0526bcf3-2aed-11e5-9b32-a0369f471940"
+  },
+  {
+    "id": 374,
+    "uuid": "restaurante-griego-374-local",
+    "parentId": 373,
+    "name": "Restaurante griego",
+    "businessUnit": "local",
+    "parent": {
+      "id": 373,
+      "uuid": "restaurante-griego-373-local",
+      "parentId": 296,
+      "name": "Restaurante griego",
+      "businessUnit": "local",
+      "parent": {
+        "id": 296,
+        "uuid": "gastronomia-296-local",
+        "name": "Gastronomía",
+        "businessUnit": "local",
+        "guid": "f052f491-36c2-406f-a196-be2c59d281f4"
+      },
+      "guid": "0526bd9c-2aed-11e5-9b32-a0369f471940"
+    },
+    "guid": "0526bdf0-2aed-11e5-9b32-a0369f471940"
+  },
+  {
+    "id": 376,
+    "uuid": "restaurante-hungaro-376-local",
+    "parentId": 375,
+    "name": "Restaurante húngaro",
+    "businessUnit": "local",
+    "parent": {
+      "id": 375,
+      "uuid": "restaurante-hungaro-375-local",
+      "parentId": 296,
+      "name": "Restaurante húngaro",
+      "businessUnit": "local",
+      "parent": {
+        "id": 296,
+        "uuid": "gastronomia-296-local",
+        "name": "Gastronomía",
+        "businessUnit": "local",
+        "guid": "f052f491-36c2-406f-a196-be2c59d281f4"
+      },
+      "guid": "0526be43-2aed-11e5-9b32-a0369f471940"
+    },
+    "guid": "0526be97-2aed-11e5-9b32-a0369f471940"
+  },
+  {
+    "id": 379,
+    "uuid": "restaurante-italiano-de-pasta-379-local",
+    "parentId": 377,
+    "name": "Restaurante italiano de pasta",
+    "businessUnit": "local",
+    "parent": {
+      "id": 377,
+      "uuid": "restaurante-italiano-377-local",
+      "parentId": 296,
+      "name": "Restaurante italiano",
+      "businessUnit": "local",
+      "parent": {
+        "id": 296,
+        "uuid": "gastronomia-296-local",
+        "name": "Gastronomía",
+        "businessUnit": "local",
+        "guid": "f052f491-36c2-406f-a196-be2c59d281f4"
+      },
+      "guid": "0526beec-2aed-11e5-9b32-a0369f471940"
+    },
+    "guid": "0526bf94-2aed-11e5-9b32-a0369f471940"
+  }
+]

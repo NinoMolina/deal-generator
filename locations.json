@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Santiago",
+    "slug": "santiago",
+    "locations": [
+      {
+        "id": 2,
+        "name": "Las Condes",
+        "slug": "las-condes"
+      },
+      {
+        "id": 3,
+        "name": "Providencia",
+        "slug": "providencia"
+      },
+      {
+        "id": 4,
+        "name": "Santiago Centro",
+        "slug": "santiago-centro"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "La Serena",
+    "slug": "la-serena"
+  },
+  {
+    "id": 6,
+    "name": "Concepción",
+    "slug": "concepcion"
+  }
+]
